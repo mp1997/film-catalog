@@ -1,0 +1,6 @@
+fastapienv
+backend\fastapienv
+.vscode
+backend\__pycache__
+backend\bigquery\__pycache__
+
